@@ -6,6 +6,7 @@ function GreetingMultiline() {
         (
             <div>
                 <h3>Good Morning! </h3>
+                <p>Showcasing Component with multi line </p>
                 <p>You have 5 new messages </p>
             </div>
 
@@ -14,6 +15,7 @@ function GreetingMultiline() {
         (
             <div>
                 <h3>Good Evening! </h3>
+                <p>Showcasing Component with multi line </p>
                 <p>You have 5 new messages </p>
             </div>
         )
