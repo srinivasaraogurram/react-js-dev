@@ -5,7 +5,7 @@ function App() {
 
   let isMorning = (new Date()).getHours() < 12;
   let greetingElement = isMorning ? <h3> Good Morning! </h3> : <h3> Good Evening!  </h3>;
-  let adjective = 'cool';
+  let adjective = 'this is the adjective testing for react app';
   let url = "https://reactjs.org"; 
   return (
     <div className="App">
